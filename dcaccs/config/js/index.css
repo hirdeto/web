@@ -1,4 +1,4 @@
-.dbrd-avatar {
+.dc-avatar {
     border-radius: 50%;
     display: block;
     margin-top: -82px;
@@ -6,7 +6,7 @@
     border:5px solid transparent;
 }
 
-.dbrd-avatar-hover {
+.dc-avatar-hover {
     border-radius: 50%;
     display: block;
     margin-top: -82px;
@@ -15,96 +15,96 @@
     transition: 250ms;
 }
 
-.dbrd-avatar-hover:hover {
+.dc-avatar-hover:hover {
     border-radius: 30%;
 }
 
-.dbrd-bg-dark {
+.dc-bg-dark {
     background-color: rgb(33, 33, 33) !important;
 }
   
-    a.dbrd-bg-dark:hover, a.dbrd-bg-dark:focus,
-    button.dbrd-bg-dark:hover,
-    button.dbrd-bg-dark:focus {
+    a.dc-bg-dark:hover, a.dc-bg-dark:focus,
+    button.dc-bg-dark:hover,
+    button.dc-bg-dark:focus {
         background-color: rgb(25, 25, 25) !important;
 }
 
-.dbrd-bg-blue {
+.dc-bg-blue {
     background-color: rgb(0, 150, 250) !important;
 }
   
-    a.dbrd-bg-blue:hover, a.dbrd-bg-blue:focus,
-    button.dbrd-bg-blue:hover,
-    button.dbrd-bg-blue:focus {
+    a.dc-bg-blue:hover, a.dc-bg-blue:focus,
+    button.dc-bg-blue:hover,
+    button.dc-bg-blue:focus {
         background-color: rgb(0, 100, 250) !important;
 }
 
-.dbrd-bg-aqua {
+.dc-bg-aqua {
     background-color: rgb(2, 235, 235) !important;
 }
   
-    a.dbrd-bg-aqua:hover, a.dbrd-bg-aqua:focus,
-    button.dbrd-bg-aqua:hover,
-    button.dbrd-bg-aqua:focus {
+    a.dc-bg-aqua:hover, a.dc-bg-aqua:focus,
+    button.dc-bg-aqua:hover,
+    button.dc-bg-aqua:focus {
         background-color: rgb(0, 200, 200) !important;
 }
 
-.dbrd-bg-green {
+.dc-bg-green {
     background-color: rgba(35, 255, 6, 0.829) !important;
 }
   
-    a.dbrd-bg-green:hover, a.dbrd-bg-green:focus,
-    button.dbrd-bg-green:hover,
-    button.dbrd-bg-green:focus {
+    a.dc-bg-green:hover, a.dc-bg-green:focus,
+    button.dc-bg-green:hover,
+    button.dc-bg-green:focus {
         background-color: rgba(35, 255, 6, 0.644) !important;
 }
 
-.dbrd-bg-yellow {
+.dc-bg-yellow {
     background-color: rgb(255, 238, 0) !important;
 }
   
-    a.dbrd-bg-yellow:hover, a.dbrd-bg-yellow:focus,
-    button.dbrd-bg-yellow:hover,
-    button.dbrd-bg-yellow:focus {
+    a.dc-bg-yellow:hover, a.dc-bg-yellow:focus,
+    button.dc-bg-yellow:hover,
+    button.dc-bg-yellow:focus {
         background-color: rgba(255, 208, 0, 0.925) !important;
 }
 
-.dbrd-bg-red {
+.dc-bg-red {
     background-color: rgb(255, 52, 52) !important;
 }
   
-    a.dbrd-bg-red:hover, a.dbrd-bg-red:focus,
-    button.dbrd-bg-red:hover,
-    button.dbrd-bg-red:focus {
+    a.dc-bg-red:hover, a.dc-bg-red:focus,
+    button.dc-bg-red:hover,
+    button.dc-bg-red:focus {
         background-color: rgba(252, 45, 45, 0.89) !important;
 }
 
-.dbrd-bg-gray {
+.dc-bg-gray {
     background-color: rgb(59, 59, 59) !important;
 }
   
-    a.dbrd-bg-gray:hover, a.dbrd-bg-gray:focus,
-    button.dbrd-bg-gray:hover,
-    button.dbrd-bg-gray:focus {
+    a.dc-bg-gray:hover, a.dc-bg-gray:focus,
+    button.dc-bg-gray:hover,
+    button.dc-bg-gray:focus {
         background-color: rgb(43, 43, 43) !important;
 }
 
-.dbrd-bg-light {
+.dc-bg-light {
     background-color: rgb(255, 255, 255) !important;
 }
   
-    a.dbrd-bg-light:hover, a.dbrd-bg-light:focus,
-    button.dbrd-bg-light:hover,
-    button.dbrd-bg-light:focus {
+    a.dc-bg-light:hover, a.dc-bg-light:focus,
+    button.dc-bg-light:hover,
+    button.dc-bg-light:focus {
         background-color: rgb(255, 255, 255) !important;
 }
 
-.dbrd-bg-rangerbot {
+.dc-bg-rangerbot {
     background-color: #0087ff !important;
 }
   
-    a.dbrd-bg-rangerbot:hover, a.dbrd-bg-rangerbot:focus,
-    button.dbrd-bg-rangerbot:hover,
-    button.dbrd-bg-rangerbot:focus {
+    a.dc-bg-rangerbot:hover, a.dcbg-rangerbot:focus,
+    button.dc-bg-rangerbot:hover,
+    button.dc-bg-rangerbot:focus {
         background-color: #0274d8 !important;
 }

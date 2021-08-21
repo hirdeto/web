@@ -1,1 +1,5 @@
-https://hirdeto.github.io
+$ dig WWW.HIRDETO.ML +nostats +nocomments +nocmd
+    > ;WWW.HIRDETO.ML.                  IN      A
+    > WWW.HIRDETO.ML.              3592    IN      CNAME   HIRDETO.github.io.
+    > HIRDETO.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
